@@ -62,7 +62,7 @@ plt.legend()
 plt.show()
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/6a59add2-55b0-4d83-8841-9c87456ef6e5)
+![impulse signal](https://github.com/user-attachments/assets/1ccec161-55db-4d0c-aedd-7de16a696bb2)
 
 
 
